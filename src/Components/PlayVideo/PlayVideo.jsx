@@ -6,7 +6,7 @@ import dislike from '../../assets/dislike.png'
 import share from '../../assets/share.png'
 import save from '../../assets/save.png'
 
-import { API_KEY, value_converter } from '../../data'
+import { API_KEY, value_converter } from '../../data.js'
 import moment from 'moment'
 import { useParams } from 'react-router-dom'
 function PlayVideo() {
